@@ -28,4 +28,4 @@ You should have python3 installed in your system for the game to run.
 To run the game:
 execute run.py using python3 i.e
 
-<python3 run.py>
+'<python3 run.py>'
